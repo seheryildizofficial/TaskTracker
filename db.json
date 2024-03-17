@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "id": "5",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": "9",
+      "position": "Software Tester",
+      "company": "IBM",
+      "location": "Ankara/Çankaya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "3/28/2023"
+    },
+    {
+      "id": "907905cf-f63c-4b18-b055-e15da56058e0",
+      "position": "Product Manager",
+      "company": "Coca Cola",
+      "location": "İstanbul/Levent",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "17.03.2024"
+    },
+    {
+      "id": "06e7d1ed-a4dd-4905-9e3e-1bc88b6dfa4e",
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "17.03.2024"
+    },
+    {
+      "id": "d5669036-cbb4-4687-8806-c41d76cd05d8",
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "17.03.2024"
+    }
+  ]
+}
