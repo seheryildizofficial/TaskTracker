@@ -32,7 +32,7 @@
 # Kullanım
 
 - Ana Sayfa (/): Tüm işleri listeler. İşleri düzenlemek veya silmek için buraya gidin.
-- İş Ekleme Sayfası (/add): Yeni işler eklemek için kullanılır. İşin adı, açıklaması ve türü burada girilir.
+- İş Ekleme Sayfası (/add): Yeni işler eklemek için kullanılır. İşin adı, açıklaması ve türü burada girilir. </br>
 
 ![](/public/jobPro.gif)
 # TaskTracker
